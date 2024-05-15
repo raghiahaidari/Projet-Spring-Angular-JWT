@@ -9,12 +9,12 @@ Ce projet est une application de banque numérique qui permet aux utilisateurs d
 - Authentification (en tant que client ou admin)
 - Consulter les comptes
 - Consulter les transactions
-- Faire une operation (debit, credit ou transfer)
+- Faire une opération (débit, crédit ou transfert)
 - Consulter l'historique des transactions
 - Consulter les utilisateurs
 - Recherche par nom de client
-- Ajouter un utlisateurs
-- Supprimer un utlisateur
+- Ajouter un utilisateur
+- Supprimer un utilisateur
 
 ## Technologies utilisées
 
