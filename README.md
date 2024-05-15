@@ -64,7 +64,7 @@ ng serve
 
 ![img_2.png](assets/img_2.png)
 
-- **Faire une operation (debit, credit ou transfer) :**
+- **Faire une opération (débit, crédit ou transfert) :**
 
 -- Debit :
 
@@ -96,7 +96,7 @@ ng serve
 
 ![img_8.png](assets/img_8.png)
 
-- **Ajouter un utlisateurs :**
+- **Ajouter un utilisateur :**
 
 ![img_9.png](assets/img_9.png)
 
@@ -104,7 +104,7 @@ ng serve
 
 ![img_13.png](assets/img_13.png)
 
-- **Supprimer un utlisateur :**
+- **Supprimer un utilisateur :**
 
 ![img_10.png](assets/img_10.png)
 
